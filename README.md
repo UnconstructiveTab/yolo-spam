@@ -1,6 +1,6 @@
 # YOLO Spam
 
-Be respectful and only use this for educational learning purposes only.
+> Be respectful and only use this for educational learning purposes only.
 
 Language: NodeJS
 Requirements: axios, chalk, readline-sync, figlet
