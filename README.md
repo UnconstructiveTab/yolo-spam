@@ -1,5 +1,4 @@
 ![](https://d1efvhlbiqueiq.cloudfront.net/big-logo.png | width=100)
-#YOLO-Spam
 
 Be respectful and only use this for educational learning purposes only.
 
