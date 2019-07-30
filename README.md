@@ -6,7 +6,7 @@ Language: NodeJS
 
 Requirements: axios, chalk, readline-sync, figlet
 
-## How to use:
+## How to use
 
 Make sure to have NodeJS installed and the required modules, you can install them if you need by executing the following command:
 `npm install <name>`
