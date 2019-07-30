@@ -1,5 +1,5 @@
 ![](https://d1efvhlbiqueiq.cloudfront.net/big-logo.png | width=100)
-![](https://d1efvhlbiqueiq.cloudfront.net/big-logo.png | width=100)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 Be respectful and only use this for educational learning purposes only.
 
