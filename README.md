@@ -1,3 +1,6 @@
 # yolo-spam
 
-Requirements: node, axios
+Language: NodeJS
+Requirements: axios, chalk, readline-sync, figlet
+
+
