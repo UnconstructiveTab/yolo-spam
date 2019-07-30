@@ -1,4 +1,4 @@
-![alt text](https://d1efvhlbiqueiq.cloudfront.net/big-logo.png "YOLO Logo")
+![alt text](https://d1efvhlbiqueiq.cloudfront.net/big-logo.png =1.5x "YOLO Logo")
 #YOLO-Spam
 
 Be respectful and only use this for educational learning purposes only.
